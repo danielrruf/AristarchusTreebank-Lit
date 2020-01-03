@@ -1,4 +1,6 @@
 # AristarchusTreebank-Lit
+
+2020.01.03
 This is a very preliminary version of a repository of treebanks of Ancient Greek literary authors
 The treebank format is based on Perseus' (https://perseusdl.github.io/treebank_data/). 
 
@@ -14,3 +16,4 @@ Don't worry about the codari attribute: is an internal code of the syntactic fun
 
 This repository will hold treebanks for literary texts as welll as literary and subliterary papyri
 The repertoire of attributes for the papyri is longer. Quite longer.
+
